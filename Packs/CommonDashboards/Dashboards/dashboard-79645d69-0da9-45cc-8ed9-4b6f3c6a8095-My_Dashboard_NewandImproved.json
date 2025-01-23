@@ -1,7 +1,7 @@
 {
     "fromDate": "0001-01-01T00:00:00Z",
     "fromDateLicense": "0001-01-01T00:00:00Z",
-    "id": "My Dashboard_NewandImproved",
+    "id": "My Dashboard",
     "layout": [
         {
             "forceRange": false,
@@ -487,7 +487,7 @@
             "y": 4
         }
     ],
-    "name": "My Dashboard_NewandImproved",
+    "name": "My Dashboard",
     "period": {
         "by": "",
         "byFrom": "days",
